@@ -88,4 +88,11 @@ Here are the steps:
 # Executing the project via Modular Code
 * Install the dependencies using the command, navigate to the **Marketing Spend Optimization using Machine Learning in Python** directory where the requirements.txt file exists, and run ***pip install -r requirements.txt*** in the terminal/CMD.
 
+<br>
+<h2 id="contact">📬 Contact</h2>
+<p>
+📉 Passionate about data science and coding? Me too!<br><br>
+🟣 Let's make something great together. Email me at <a href="mailto:renatadalmeidas@gmail.com">renatadalmeidas@gmail.com</a><br><br>
+🟣 Connect with me on <a href="https://www.linkedin.com/in/renata-d-almeida/">LinkedIn</a> for more updates on my projects and professional endeavors
+</p>
 
